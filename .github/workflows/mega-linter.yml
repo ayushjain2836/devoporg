@@ -97,7 +97,7 @@ jobs:
 
           # Uncomment to disable copy-paste and spell checks
           DISABLE: COPYPASTE,SPELL
-          ENABLE : LIGHTNING_FLOW_SCANNER,https://forcedotcom.github.io/sfdx-scanner/
+          ENABLE : LIGHTNING_FLOW_SCANNER,SFDX_SCANNER_APEX
 
       # Upload MegaLinter artifacts
       - name: Archive production artifacts
