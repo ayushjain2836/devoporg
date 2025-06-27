@@ -97,6 +97,7 @@ jobs:
 
           # Uncomment to disable copy-paste and spell checks
           DISABLE: COPYPASTE,SPELL
+          ENABLE : SALESFORCE
 
       # Upload MegaLinter artifacts
       - name: Archive production artifacts
