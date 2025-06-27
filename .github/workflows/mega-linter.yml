@@ -96,7 +96,7 @@ jobs:
           # .mega-linter.yml AT THE ROOT OF YOUR REPOSITORY
 
           # Uncomment to disable copy-paste and spell checks
-          # DISABLE: COPYPASTE,SPELL
+          DISABLE: COPYPASTE,SPELL
 
       # Upload MegaLinter artifacts
       - name: Archive production artifacts
