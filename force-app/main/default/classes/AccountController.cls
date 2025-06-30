@@ -1,5 +1,5 @@
 public with sharing class AccountController {
     public AccountController() {
-        system.debug("account debug");
+        system.debug('account debuggg');
     }
 }
